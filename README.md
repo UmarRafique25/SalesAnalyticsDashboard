@@ -1,4 +1,6 @@
 
+![Dashboard Preview](reports/dashboard_preview.png)
+
 # Sales Analytics Dashboard
 
 A full-stack Sales Analytics Dashboard built using React, Flask, PostgreSQL, and Python for analyzing business sales performance and generating actionable insights from sales data.
