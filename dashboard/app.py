@@ -12,7 +12,7 @@ st.set_page_config(
 st.title('📊 Sales Analytics Dashboard')
 st.markdown('Analyze sales performance, trends, and business insights.')
 
-df = pd.read_csv('../processed/cleaned_sales_data.csv')
+df = pd.read_csv('processed/cleaned_sales_data.csv')
 
 st.subheader('Dataset Preview')
 st.dataframe(df.head())
